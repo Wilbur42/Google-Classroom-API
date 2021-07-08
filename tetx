@@ -1,2 +1,0 @@
-if (course['name'] == '10 Set 1 (2020-21)') or (course['name'] == 'P1 - Conservation and Disipation of Energy') or ('9' in course['name']) or ('Guitar' in course['name']) or ('Drums' in course['name']):
-                courses.remove(course)
