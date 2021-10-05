@@ -1,4 +1,4 @@
-import getlinks
+import main
 import json
 
 course_alias = {
@@ -19,7 +19,7 @@ course_alias = {
 
 
 def get_classes():
-    courses = getlinks.main()
+    courses = get.main()
     data = {}
     for course in courses:
         if course not in course_alias:
