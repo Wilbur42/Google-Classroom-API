@@ -1,25 +1,28 @@
-import main
+import get
 import json
 
 course_alias = {
-'10 FSMQ Additional Maths (2020-21)' : 'Additional Maths',
-'10B Geography DA' : 'Geography',
-'Maths 10 Set 1 (2020-21)' : 'Maths',
-'10 Music NR' : 'Music',
-'10X Physics AWY' : 'Physics',
-'10X Biology EV' : 'Biology',
-'Year 10B Form Class' : 'Form Class',
-'10 Computer Science' : 'Computer Science',
-'10C Design Technology MU' : 'DT',
-'10X Chemistry GTR' : 'Chemistry',
-'10-1 English PA' : 'English',
-'Chichester' : 'Chichester',
-'10 DofE AWY' : 'DOFE',
+    "11 Add Maths (21-22) & 10 Add Maths (20-21)": "Additional Maths",
+    "11 Computer Science": "Computer Science",
+    "11 S1 Chemistry (GTR)": "Chemistry",
+    "11-1 English PA": "English",
+    "11B Geography DA": "Geography",
+    "11C Design Technology MU": "Design Technology",
+    "11X Biology": "Biology",
+    "11X Physics AWY": "Physics",
+    "Careers All Year 11": "Careers Info",
+    "Coding Club": "Coding Club",
+    "DOK Academic Scholars": "Academic Sholars",
+    "Kestrel": "Kestrel",
+    "Maths 11_1": "Maths",
+    "Y11 DofE AWY": "DofE",
+    "Year 11 GCSE Music NR": "Music",
+    "Year 11 PE": "PE"
 }
 
 
-def get_classes():
-    courses = get.main()
+def get_alias():
+    courses = get.get_courses()
     data = {}
     for course in courses:
         if course not in course_alias:
@@ -28,8 +31,8 @@ def get_classes():
     return data
 
 def update_links():
-    data = get_classes()
+    data = get_alias()
     with open('data.json', 'w') as f:
-        f.write(json.dumps(data))
+        f.write(json.dumps(data, indent=4, sort_keys=True))
 
 update_links()

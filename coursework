@@ -1,0 +1,107 @@
+[
+    {
+        "alternateLink": "https://classroom.google.com/c/MTU4MjAzMjQ0NzAw/a/Mzk2MjU5NTkwMjg0/details",
+        "courseId": "158203244700",
+        "creationTime": "2021-09-20T14:58:25.549Z",
+        "creatorUserId": "104471740701439671089",
+        "description": "Initial concepts - complete page of at least 12 thoughts\n\n\nDraw 4 initial ideas in detail, add annotation, exploded features, key information.\n\n\nSEE support sheets on website:\nhttps://sites.google.com/dokschool.org/design-technology/year-groups/year-11/teaching-slides\u00a0\n",
+        "dueDate": {
+            "day": 11,
+            "month": 10,
+            "year": 2021
+        },
+        "dueTime": {
+            "hours": 22,
+            "minutes": 59
+        },
+        "id": "396259590284",
+        "maxPoints": 9,
+        "state": "PUBLISHED",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "title": "2.1 Initial Ideas",
+        "topicId": "359012680662",
+        "updateTime": "2021-09-20T15:01:16.475Z",
+        "workType": "ASSIGNMENT"
+    },
+    {
+        "alternateLink": "https://classroom.google.com/c/MTU4MjAzMjQ0NzAw/a/Mzg5Mzc4MDc5MjQw/details",
+        "courseId": "158203244700",
+        "creationTime": "2021-09-09T12:44:40.717Z",
+        "creatorUserId": "104471740701439671089",
+        "description": "Using the \"write a private comment\" tab\n\n\nplease write a target for you to achieve this term.",
+        "id": "389378079240",
+        "maxPoints": 9,
+        "state": "PUBLISHED",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "title": "CHALLENGE target for term",
+        "topicId": "389378079241",
+        "updateTime": "2021-09-09T12:44:40.661Z",
+        "workType": "ASSIGNMENT"
+    },
+    {
+        "alternateLink": "https://classroom.google.com/c/MTU4MjAzMjQ0NzAw/a/Mzg5MzgyMDc1MjUy/details",
+        "courseId": "158203244700",
+        "creationTime": "2021-09-09T12:35:47.849Z",
+        "creatorUserId": "104471740701439671089",
+        "description": "Please have a look at the following link:\u00a0\n\n\nhttps://sites.google.com/dokschool.org/design-technology/home\n\n\n\nIt provides you with information about your classes AND\nuseful additional resources\u00a0\n\n\nHopefully this will be helpful for you\nMr Usher",
+        "id": "389382075252",
+        "state": "PUBLISHED",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "title": "Design Technology Website ",
+        "topicId": "389382075253",
+        "updateTime": "2021-09-09T12:35:47.799Z",
+        "workType": "ASSIGNMENT"
+    },
+    {
+        "alternateLink": "https://classroom.google.com/c/MTU4MjAzMjQ0NzAw/a/MjI1MDI5MTA0NjQy/details",
+        "courseId": "158203244700",
+        "creationTime": "2021-01-13T15:20:53.397Z",
+        "creatorUserId": "104471740701439671089",
+        "description": "https://forms.gle/yJT7AqKphnBR24nC8",
+        "id": "225029104642",
+        "maxPoints": 100,
+        "state": "PUBLISHED",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "title": "1.1 New and emerging technologies TEST",
+        "topicId": "159449946984",
+        "updateTime": "2021-06-21T10:27:35.842Z",
+        "workType": "ASSIGNMENT"
+    },
+    {
+        "alternateLink": "https://classroom.google.com/c/MTU4MjAzMjQ0NzAw/a/MjMzODY2MDk4NzI2/details",
+        "courseId": "158203244700",
+        "creationTime": "2021-01-18T11:42:50.113Z",
+        "creatorUserId": "104471740701439671089",
+        "id": "233866098726",
+        "materials": [
+            {
+                "link": {
+                    "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://app.senecalearning.com/dashboard/class/4pw5gnq3xh/assignments/assignment/fe4cf8e7-2a78-4d03-a079-3eafd3b7ce15",
+                    "title": "Seneca - Learn 2x Faster",
+                    "url": "https://app.senecalearning.com/dashboard/class/4pw5gnq3xh/assignments/assignment/fe4cf8e7-2a78-4d03-a079-3eafd3b7ce15"
+                }
+            }
+        ],
+        "state": "PUBLISHED",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "title": "Energy and New materials",
+        "topicId": "159449946984",
+        "updateTime": "2021-06-21T10:27:22.984Z",
+        "workType": "ASSIGNMENT"
+    },
+    {
+        "alternateLink": "https://classroom.google.com/c/MTU4MjAzMjQ0NzAw/a/MjYyNzc2Njc1MjAw/details",
+        "courseId": "158203244700",
+        "creationTime": "2021-02-01T11:53:52.649Z",
+        "creatorUserId": "104471740701439671089",
+        "description": "https://app.senecalearning.com/dashboard/class/4pw5gnq3xh/assignments/assignment/0f7e71f0-f099-4fc2-b9fd-9659dbeb64df",
+        "id": "262776675200",
+        "maxPoints": 100,
+        "state": "PUBLISHED",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "title": "Mechanisms",
+        "topicId": "159449946984",
+        "updateTime": "2021-06-21T10:27:09.868Z",
+        "workType": "ASSIGNMENT"
+    }
+]
